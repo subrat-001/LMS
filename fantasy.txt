@@ -1,0 +1,8 @@
+The lord of the rings,4
+A game of Thrones,4
+American Gods,6
+Assassin's Apprentice,3
+Six of Crows,6
+A Wizard of Earthsea,3
+The Eye of the World,4
+The Night Circus,4

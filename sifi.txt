@@ -1,0 +1,6 @@
+Dune,5
+The Time Machine,3
+Frankenstein,7
+Ready Player One,7
+Snow Crash,4
+The Martian,2
